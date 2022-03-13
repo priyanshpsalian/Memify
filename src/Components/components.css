@@ -1,0 +1,36 @@
+.Card {
+    margin: 15px 100px 15px 100px;
+    padding: 5px 5px 5px 5px;
+}
+
+.home {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px;
+    color: rgb(75, 54, 131);
+}
+.pic-button {
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 2px;
+    color: rgb(255, 255, 255);
+}
+.header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+.MuiImageListItemBar-title {
+    font-family: 'Courier New', Courier, monospace;
+}
+.paper {
+    margin-left: 65vh;
+    margin-top: 25vh;
+    text-align: center;
+    text-decoration: none;
+    width: fit-content;
+}
+
+.item:hover {
+    background-color: azure;
+    opacity: 40%;
+}

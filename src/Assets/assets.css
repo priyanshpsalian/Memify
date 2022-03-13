@@ -1,0 +1,57 @@
+.template {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 25px;
+}
+
+.header {
+    text-align: center;
+}
+
+.Nav-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Links {
+    text-decoration: none;
+    padding: 2px;
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.image_meme {
+    width: 25%;
+    display: flex;
+    margin: 15px;
+    padding: 10px;
+}
+
+.form {
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.project {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.finalImg {
+    width:20%;
+}
